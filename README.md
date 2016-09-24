@@ -4,12 +4,7 @@ Fix and customize W3 Total Cache by [@ftownes](https://github.com/ftownes)
 
 ### Installation
 
-1. Deactivate official plugin from WP.org
-1. Delete plugin directory `w3-total-cache` by hand, DO NOT click "Delete" on Plugins page
-1. Unpack [master](https://github.com/szepeviktor/fix-w3tc/archive/master.zip) in `/wp-content/plugins/`
-1. Rename the extracted directory from `fix-w3tc-master` to `w3-total-cache`
-1. Activate w3tc
-1. Check that it's working
+1. Follow (this step-by-step)[https://thetechjournal.com/how-to/fix-w3-total-cache-reloaded-vulnerability-wordpress.xhtml] guide. 
 
 ### Fix
 
