@@ -4,7 +4,7 @@ Fix and customize W3 Total Cache by [@ftownes](https://github.com/ftownes)
 
 ### Installation
 
-1. Follow (this step-by-step)[https://thetechjournal.com/how-to/fix-w3-total-cache-reloaded-vulnerability-wordpress.xhtml] guide. 
+1. Follow [this step-by-step](https://thetechjournal.com/how-to/fix-w3-total-cache-reloaded-vulnerability-wordpress.xhtml) guide. 
 
 ### Fix
 
