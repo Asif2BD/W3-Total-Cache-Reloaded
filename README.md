@@ -1,4 +1,4 @@
-# Fix W3TC (W3 Total Cache) [![Build Status](https://travis-ci.org/szepeviktor/fix-w3tc.svg?branch=master)](https://travis-ci.org/szepeviktor/fix-w3tc)
+# W3 Total Cache Reloaded - Based on Fix-W3TC [![Build Status](https://travis-ci.org/szepeviktor/fix-w3tc.svg?branch=master)](https://travis-ci.org/szepeviktor/fix-w3tc)
 
 Fix and customize W3 Total Cache by [@ftownes](https://github.com/ftownes)
 
